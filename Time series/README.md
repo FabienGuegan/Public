@@ -1,4 +1,4 @@
-# Time series project (hackathon)
+# Time Series Forecasting
 
 # Objective
 
