@@ -16,10 +16,10 @@ Please explore each folder to delve into the specific projects and learn more ab
 # Acknowledgments
 I would like to express my heartfelt gratitude to the Lisbon Data Science Academy and its volunteers for their tireless efforts in teaching and spreading the knowledge of Data Science. Their dedication has been instrumental in my learning journey. Special thanks to:
 
-Minh Hoang (President)
-Carol Martins (Vice-President)
-Inês Mendes (Vice-President)
-And all the other instructors and volunteers who have contributed to this program (https://www.lisbondatascience.org/about-us/).
+- Minh Hoang (President)
+- Carol Martins (Vice-President)
+- Inês Mendes (Vice-President)
+- And all the other instructors and volunteers who have contributed to this program (https://www.lisbondatascience.org/about-us/).
 
 Without their support, this learning experience would not have been possible. I am truly grateful for their guidance and expertise.
 
