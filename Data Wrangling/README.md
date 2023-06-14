@@ -44,3 +44,18 @@ In the data folder, you’ll find:
     - test.csv
 - Also, a sample submission, containing the timestamp and the predicted signal:
     - sample_submission.csv
+
+# Other Sources
+- API:
+  - https://n6v6uai1jj.execute-api.eu-west-1.amazonaws.com/dev
+- Website: 
+  - https://s02-infrastructure.s3.eu-west-1.amazonaws.com/hackathon-2-batch6/4.html
+- Database, 
+  - table=hackathon_02 
+  - host=batch4-s02-db-instance.ctq2kxc7kx1i.eu-west-1.rds.amazonaws.com
+  - port=5432
+  - username=ldsa_student
+  - password=<same as in specialization 2>
+  - dbname=s02_db
+  - schema=public
+
