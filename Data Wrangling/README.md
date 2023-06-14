@@ -31,3 +31,16 @@ If the indicator is above 80, it is considered as overbought. If the indicator i
 - Momentum (MOM): It is the rate of acceleration of a security's price or volume – that is, the speed at which the price is changing.
 - Relative Strength Index (RSI): It is a momentum indicator that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset.
 - Rate Of Change (ROC): It is a momentum oscillator, which measures the percentage change between the current price and the n period past price.
+
+# Data Sources
+
+The data is distributed across multiple data sources, otherwise, what’s the point of a data wrangling hackathon.
+
+# Files
+In the data folder, you’ll find:
+ - a collection of 4 files, in different formats:
+    - data_0, data_1, data_2, data_3
+- The test set:
+    - test.csv
+- Also, a sample submission, containing the timestamp and the predicted signal:
+    - sample_submission.csv
